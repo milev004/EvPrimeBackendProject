@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cbd5c0e-799a-4265-87db-e4907e29a2b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/EVPrimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/PostEventDataFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/SignUpLoginDataFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/database/DbClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/request/PostUpdateEventRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/request/SignUpLoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/GetEventsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/LoginErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/LoginErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/PostUpdateDeleteEventResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/PostUpdateErrorsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/PostUpdateResponseErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/SignUpErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/SignUpResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/objectBuilder/PostEventObjectBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/objectBuilder/SignUpBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/DateBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/evprimeTests/DeleteEventTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/evprimeTests/GetAllEventsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/evprimeTests/GetSingleEventTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/evprimeTests/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/evprimeTests/PostEventTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/evprimeTests/SignUpTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/evprimeTests/UpdateEventTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ev5n7G77moTsrSlMQs7Gjv5TGD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Biljana's PC/IdeaProjects/EVPrime"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.DeleteEventTests and 6 more">
+    <configuration name="DeleteEventTests and 6 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EVPrime" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="evprimeTests.DeleteEventTests" />
+        <pattern testClass="evprimeTests.GetAllEventsTests" />
+        <pattern testClass="evprimeTests.GetSingleEventTests" />
+        <pattern testClass="evprimeTests.LoginTests" />
+        <pattern testClass="evprimeTests.PostEventTests" />
+        <pattern testClass="evprimeTests.SignUpTests" />
+        <pattern testClass="evprimeTests.UpdateEventTests" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostEventTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EVPrime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evprimeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evprimeTests" />
+      <option name="MAIN_CLASS_NAME" value="evprimeTests.PostEventTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostEventTests.invalidDateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EVPrime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evprimeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evprimeTests" />
+      <option name="MAIN_CLASS_NAME" value="evprimeTests.PostEventTests" />
+      <option name="METHOD_NAME" value="invalidDateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostEventTests.unsuccessfulRequestAuthorizationTokenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EVPrime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evprimeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evprimeTests" />
+      <option name="MAIN_CLASS_NAME" value="evprimeTests.PostEventTests" />
+      <option name="METHOD_NAME" value="unsuccessfulRequestAuthorizationTokenTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EVPrime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evprimeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="evprimeTests" />
+      <option name="MAIN_CLASS_NAME" value="evprimeTests.SignUpTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeleteEventTests and 6 more" />
+        <item itemvalue="JUnit.SignUpTests" />
+        <item itemvalue="JUnit.PostEventTests" />
+        <item itemvalue="JUnit.PostEventTests.invalidDateTest" />
+        <item itemvalue="JUnit.PostEventTests.unsuccessfulRequestAuthorizationTokenTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cbd5c0e-799a-4265-87db-e4907e29a2b1" name="Changes" comment="" />
+      <created>1712769680060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712769680060</updated>
+    </task>
+    <servers />
+  </component>
+</project>
